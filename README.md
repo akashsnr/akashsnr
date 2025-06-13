@@ -1,16 +1,23 @@
-## Hi there 👋
+# Akash S Nair  
+**Full-Stack Web Developer**
 
-<!--
-**akashsnr/akashsnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me  
+I'm a self-driven web developer with a strong foundation in building responsive, scalable, and secure web applications. I specialize in both frontend and backend technologies and continuously explore new tools and best practices in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend:**  
+HTML, CSS, JavaScript , Bootstrap, React  
+
+**Backend:**  
+Node.js, Express.js, EJS, REST APIs  
+
+**Databases:**  
+MongoDB, MySQL, PostgreSQL  
+
+**Tools:**  
+Git, GitHub, CLI, Heroku  
